@@ -1,3 +1,3 @@
-# Keepsy privacy policy
+# Warranty Keeper privacy policy
 
 Served by GitHub Pages for the App Store listing.
